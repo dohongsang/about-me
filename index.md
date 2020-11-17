@@ -101,10 +101,10 @@ var person = Person('Your Name');
 console.log(person.name);
 ```
 
-[]A. undefined
-[]B. Person { name: "Your Name" }
-[]C. "Your Name"
-[x]D. Uncaught TypeError: Cannot read property 'name' of undefined
+[] A. undefined
+[] B. Person { name: "Your Name" }
+[] C. "Your Name"
+[x] D. Uncaught TypeError: Cannot read property 'name' of undefined
 
 ```markdown
 Result: D
