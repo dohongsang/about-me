@@ -115,7 +115,7 @@ findNumbers(211) === [13, 5, 4, 1]
 findNumbers(99) === [9, 4, 1, 1]
 ```
 
-```javascript Result
+```javascript
 function findNumbers (n) {
   let round = Math.floor(Math.sqrt(n));
   for (let i = round; i > 0; i--) {
