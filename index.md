@@ -93,18 +93,18 @@ Result: D
 
 6. What is the result of the below code?
 
-```
 function Person(name) {
- this.name = name;
+this.name = name;
 }
 var person = Person('Your Name');
 console.log(person.name);
-```
 
+```markdown
 [] A. undefined
 [] B. Person { name: "Your Name" }
 [] C. "Your Name"
 [x] D. Uncaught TypeError: Cannot read property 'name' of undefined
+```
 
 ```markdown
 Result: D
