@@ -41,46 +41,51 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ###Poeta Testing
 
 1. What is the correct HTML for referring to an external style sheet?
-   A. <stylesheet>mystyle.css</stylesheet>
-   B. <link rel="stylesheet" type="text/css" href="mystyle.css">
-   C. <style src="mystyle.css">
+
+A. <stylesheet>mystyle.css</stylesheet>
+B. <link rel="stylesheet" type="text/css" href="mystyle.css">
+C. <style src="mystyle.css">
 
 ```markdown
 Result: B
 ```
 
 2. What is the correct JavaScript syntax for opening a new window called "w2" ?
-   A. w2 = window.open("http://www.w3schools.com");
-   B. w2 = window.new("http://www.w3schools.com");
+
+A. w2 = window.open("http://www.w3schools.com");
+B. w2 = window.new("http://www.w3schools.com");
 
 ```markdown
 Result: A
 ```
 
 3. How can you detect the client's browser name?
-   A. navigator.appName
-   B. browser.name
-   C. client.navName
+
+A. navigator.appName
+B. browser.name
+C. client.navName
 
 ```markdown
 Result: A
 ```
 
 4. The HTML <canvas> element is used to:
-   A. draw graphics
-   B. create draggable elements
-   C. manipulate data in MySQL
-   D. display database records
+
+A. draw graphics
+B. create draggable elements
+C. manipulate data in MySQL
+D. display database records
 
 ```markdown
 Result: A
 ```
 
 5. What is the difference between == and === ?
-   A. == is the strict equality operator and === is the abstract equality operator
-   B. The === operator will compare for equality after doing any necessary type conversions
-   C. Both a and b are correct
-   D. Both a and b are incorrect
+
+A. == is the strict equality operator and === is the abstract equality operator
+B. The === operator will compare for equality after doing any necessary type conversions
+C. Both a and b are correct
+D. Both a and b are incorrect
 
 ```markdown
 Result: D
@@ -96,10 +101,10 @@ var person = Person('Your Name');
 console.log(person.name);
 ```
 
-A. undefined
-B. Person { name: "Your Name" }
-C. "Your Name"
-D. Uncaught TypeError: Cannot read property 'name' of undefined
+*A. undefined
+*B. Person { name: "Your Name" }
+*C. "Your Name"
+*D. Uncaught TypeError: Cannot read property 'name' of undefined
 
 ```markdown
 Result: D
