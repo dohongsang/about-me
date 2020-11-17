@@ -2,9 +2,9 @@
 
 `1. What is the correct HTML for referring to an external style sheet?`
 
-[ ] A. <stylesheet>mystyle.css</stylesheet>
-[x] B. <link rel="stylesheet" type="text/css" href="mystyle.css">
-[ ] C. <style src="mystyle.css">
+- [ ] A. <stylesheet>mystyle.css</stylesheet>
+- [x] B. <link rel="stylesheet" type="text/css" href="mystyle.css">
+- [ ] C. <style src="mystyle.css">
 
 `2. What is the correct JavaScript syntax for opening a new window called "w2" ?`
 
