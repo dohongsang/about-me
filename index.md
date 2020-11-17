@@ -2,14 +2,14 @@
 
 `1. What is the correct HTML for referring to an external style sheet?`
 
-[ ] A. <stylesheet>mystyle.css</stylesheet>
-[x] B. <link rel="stylesheet" type="text/css" href="mystyle.css">
-[ ] C. <style src="mystyle.css">
+- [ ] A. <stylesheet>mystyle.css</stylesheet>
+- [x] B. <link rel="stylesheet" type="text/css" href="mystyle.css">
+- [ ] C. <style src="mystyle.css">
 
 `2. What is the correct JavaScript syntax for opening a new window called "w2" ?`
 
-[x] A. w2 = window.open("http://www.w3schools.com");
-[ ] B. w2 = window.new("http://www.w3schools.com");
+- [x] A. w2 = window.open("http://www.w3schools.com");
+- [ ] B. w2 = window.new("http://www.w3schools.com");
 
 `3. How can you detect the client's browser name?`
 
